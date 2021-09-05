@@ -1,3 +1,3 @@
-module hello-world-git-cli
+module hello-world-go-cli
 
 go 1.15
